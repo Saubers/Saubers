@@ -1,16 +1,16 @@
-### Hi there 👋
+### console.log('Hi there 👋');
 
-<!--
-**Saubers/Saubers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am a Full Stack Developer, with a lot of enthusiasm, i am creative, proactive, disciplined and i love to learn new things. 
+ The technologies i know are: JavaScript, CSS, HTML, TypeScript, Nodejs, MongoDB, MySQL, React, Redux, GIT. (I’m always willing to learn new ones)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working in a online car shop with my teammates, we are doing this project for Henry Academy.
+
+- 🌱 I’m currently learning more about database and REST Api.
+
+- 📫 How to reach me: Gmail: laserna.seba@gmail.com, LinkedIn: https://www.linkedin.com/in/sebal-fullstack/
+
+- ⚡ About me: I’ve started learning how to program about 8 month ago, and i discovered my passion in coding. As i wrote before, i keep learning new things and trying to get new experiences to get better in this world.
+
