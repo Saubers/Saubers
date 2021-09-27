@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working in a online car shop with my teammates, we are doing this project for Henry Academy.
 
+- :muscle: Experience: I’ve made a web page about Pokemon, i used JavaScript, CSS, Nodejs, MySQL, pgAdmin 4, React & Redux.
+
 - 🌱 I’m currently learning more about database and REST Api.
 
 - 📫 How to reach me: Gmail: laserna.seba@gmail.com, LinkedIn: https://www.linkedin.com/in/sebal-fullstack/
