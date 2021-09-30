@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning more about database and REST Api.
 
-- 📫 You can find me:
-- [Linkedin](https://www.linkedin.com/in/sebal-fullstack/)
-
 - ⚡ About me: I’ve started learning how to program about 8 month ago, and i discovered my passion in coding. As i wrote before, i keep learning new things and trying to get new experiences to get better in this world.
 
+ **You can find me:**
+<code><img height="20" href="https://www.linkedin.com/in/sebal-fullstack/" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/linkedin/linkedin.png"></code>
