@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning more about database and REST Api.
 
-- 📫 How to reach me: 
-- [Gmail] (laserna.seba@gmail.com), 
-- [Linkedin] (https://www.linkedin.com/in/sebal-fullstack)/
+- 📫 You can find me:
+- [Linkedin](https://www.linkedin.com/in/sebal-fullstack/)
 
 - ⚡ About me: I’ve started learning how to program about 8 month ago, and i discovered my passion in coding. As i wrote before, i keep learning new things and trying to get new experiences to get better in this world.
 
