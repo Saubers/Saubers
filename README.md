@@ -1,5 +1,5 @@
 ![Port](https://media-exp1.licdn.com/dms/image/C5616AQEN4irkm_NEww/profile-displaybackgroundimage-shrink_350_1400/0/1632141310965?e=1638403200&v=beta&t=YMF9AJ2qHLoyJl2Oj-dNgoH2RGrwIHKNKWQbhuMI51U)
-### <h1 align="center"> console.log('Hi there 👋'); </h1>
+### <h1 align="center"> console.log('Hi there 👋💻'); </h1>
 
 
 I am a Full Stack Developer, with a lot of enthusiasm, i am creative, proactive, disciplined and i love to learn new things. 
@@ -16,8 +16,6 @@ I am a Full Stack Developer, with a lot of enthusiasm, i am creative, proactive,
 <a href="https://github.com/Saubers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Saubers&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Saubers github stats" /></a> |
 
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working in a online car shop with my teammates, we are doing this project for Henry Academy.
 
