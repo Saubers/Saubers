@@ -1,19 +1,19 @@
 ![Port](https://media-exp1.licdn.com/dms/image/C5616AQEN4irkm_NEww/profile-displaybackgroundimage-shrink_350_1400/0/1632141310965?e=1638403200&v=beta&t=YMF9AJ2qHLoyJl2Oj-dNgoH2RGrwIHKNKWQbhuMI51U)
-### <h1> console.log('Hi there 👋'); </h1>
+### <h1 align="center"> console.log('Hi there 👋'); </h1>
 
 
 I am a Full Stack Developer, with a lot of enthusiasm, i am creative, proactive, disciplined and i love to learn new things. 
  
- **Languages and Tools:**  
+<div align="center"> **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-![Saubers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saubers&show_icons=true&theme=radical)
+</div
+| <a href="https://github.com/saubers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saubers&layout=compact&theme=radical&hide_border=true" /></a> |
+<a href="https://github.com/Saubers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Saubers&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Saubers github stats" /></a> |
 
 
 
