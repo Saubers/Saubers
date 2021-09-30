@@ -4,8 +4,8 @@
 I am a Full Stack Developer, with a lot of enthusiasm, i am creative, proactive, disciplined and i love to learn new things. 
  The technologies i know are: JavaScript, CSS, HTML, TypeScript, Nodejs, MongoDB, MySQL, React, Redux, GIT. (I’m always willing to learn new ones)
 
-![Saubers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saubers&hide=contribs,prs)
-![Saubers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saubers&show_icons=true)
+![Saubers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saubers&show_icons=true&theme=radical)
+
 
 
 Here are some ideas to get you started:
