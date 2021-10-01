@@ -6,10 +6,10 @@ I am a Full Stack Developer, with a lot of enthusiasm, i am creative, proactive,
  
 <div align="center"> <h1>Languages and Tools:</h1>  
 
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50"> <p>Javascript</p>
+<code align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50"> <p>Javascript</p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="50" height="50"><p>Typescript</p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50"><p>React</p>
-<img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png" width="50" height="50"><p>MongoDB</p></code>
+<img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png" width="50" height="50"><p>MongoDB</p>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="50" height="50"><p>NodeJS</p></code>    
 </div
 | <a href="https://github.com/saubers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saubers&layout=compact&theme=radical&hide_border=true" /></a> |
