@@ -10,7 +10,7 @@ I am a Full Stack Developer, with a lot of enthusiasm, i am creative, proactive,
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png" width="50" height="50">
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="50" height="50">
- <p>Javascript Typescript React MongoDB NodeJS (H6)</p>
+ <h6>Javascript Typescript React MongoDB NodeJS (H6)</h6>
 </div
 | <a href="https://github.com/saubers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saubers&layout=compact&theme=radical&hide_border=true" /></a> |
 <a href="https://github.com/Saubers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Saubers&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Saubers github stats" /></a> |
