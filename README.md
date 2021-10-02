@@ -13,7 +13,7 @@ I am a Full Stack Developer, with a lot of enthusiasm, i am creative, proactive,
  <h6> |  React  |  MongoDB  |  NodeJS  |  Javascript | Typescript  |</h6>
 </div
 | <a href="https://github.com/saubers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saubers&layout=compact&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Saubers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Saubers&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Saubers github stats" /></a> |
+<a href="https://github.com/Saubers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Saubers&show_icons=false&include_all_commits=true&theme=radical&hide_border=true" alt="Saubers github stats" /></a> |
 
 
 
