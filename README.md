@@ -17,15 +17,15 @@ I am a Full Stack Developer, with a lot of enthusiasm, i am creative, proactive,
 
 
 
-- 🔭 I’m currently working in a online car shop with my teammates, we are doing this project for Henry Academy.
+- 🔭 I’m currently working in a mobile app with OpenDev Pro.
 
-- :muscle: Experience: I’ve made a web page about Pokemon, i used JavaScript, CSS, Nodejs, MySQL, pgAdmin 4, React & Redux.
+- :brain: Experience: I’ve made a web page about Pokemon, a car shop groupal project, and a mobile app.
 
-- 🌱 I’m currently learning more about database and REST Api.
+- 🌱 I’m currently learning more about React Native.
 
 - ⚡ About me: I’ve started learning how to program about 8 month ago, and i discovered my passion in coding. As i wrote before, i keep learning new things and trying to get new experiences to get better in this world.
 
-<h2> Me podes contactar en: </h2>
+<h2> You can reach me in: </h2>
 
 <p>
     <a href="https://www.linkedin.com/in/sebal-fullstack/">
