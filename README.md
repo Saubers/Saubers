@@ -19,7 +19,7 @@ I am a Full Stack Developer, with a lot of enthusiasm, i am creative, proactive,
 
 - 🔭 I’m currently working in a mobile app with OpenDev Pro.
 
-- :brain: Experience: I’ve made a web page about Pokemon, a car shop groupal project, and a mobile app.
+- :hammer: Experience: I’ve made a web page about Pokemon, a car shop groupal project, and a mobile app.
 
 - 🌱 I’m currently learning more about React Native.
 
