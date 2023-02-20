@@ -4,7 +4,7 @@
 
 I am a Full Stack Developer, with a lot of enthusiasm, i am creative, proactive, disciplined and i love to learn new things. 
  
-<div align="center" space> <h1>Languages and Tools:</h1>  
+<div align="center" flex-direction="row" space> <h1>Languages and Tools:</h1>  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png" width="50" height="50">
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="50" height="50">
@@ -23,7 +23,7 @@ I am a Full Stack Developer, with a lot of enthusiasm, i am creative, proactive,
 
 - 🌱 I’m currently learning more about React Native.
 
-- ⚡ About me: I’ve started learning how to program about 8 month ago, and i discovered my passion in coding. As i wrote before, i keep learning new things and trying to get new experiences to get better in this world.
+- ⚡ About me: I’ve started learning how to program about 2 years ago, and i discovered my passion in coding. As i wrote before, i keep learning new things and trying to get new experiences to get better in this world.
 
 <h2> You can reach me in: </h2>
 
