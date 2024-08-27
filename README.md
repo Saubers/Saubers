@@ -17,13 +17,13 @@ I am a Full Stack Developer, with a lot of enthusiasm, i am creative, proactive,
 
 
 
-- 🔭 I’m currently working in a mobile app with OpenDev Pro.
+- 🔭 I’m currently working in a big project with The Flock.
 
 - :hammer: Experience: I’ve made a web page about Pokemon, a car shop groupal project, and a mobile app.
 
 - 🌱 I’m currently learning more about React Native.
 
-- ⚡ About me: I’ve started learning how to program about 2 years ago, and i discovered my passion in coding. As i wrote before, i keep learning new things and trying to get new experiences to get better in this world.
+- ⚡ About me: I’ve started learning how to program about 4 years ago, and i discovered my passion in coding. As i wrote before, i keep learning new things and trying to get new experiences to get better in this world.
 
 <h2> You can reach me in: </h2>
 
